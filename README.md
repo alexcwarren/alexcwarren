@@ -51,7 +51,7 @@ I've been a professional software engineer for over 6 years. I enjoy developing 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
   </a>
   <a href="https://www.tiktok.com/@alexcwarren" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/alexcwarren/alexcwarren.github.io/tree/master/src/images/icons/tiktok.png" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/alexcwarren/alexcwarren.github.io/master/src/images/icons/tiktok-logo-4500.png" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/alexandercwarren/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
