@@ -44,17 +44,29 @@ I've been a professional software engineer for over 6 years. I enjoy developing 
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/alexcwarren" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" />
-  </a>
   <a href="http://www.medium.com/@alexcwarren" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/fit/c/176/176/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.youtube.com/c/alexcwarren" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.tiktok.com/@alexcwarren" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/alexcwarren/alexcwarren.github.io/tree/master/src/images/icons/tiktok.png" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexandercwarren/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.github.com/alexcwarren" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
   </a>
   <a href="https://www.twitter.com/alexcwarren" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
-  <a href="https://www.youtube.com/c/alexcwarren" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+  <a href="https://instagram.com/alexcwarren" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100083895441866" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
   </a>
 </p>
 
