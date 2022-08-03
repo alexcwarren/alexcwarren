@@ -6,8 +6,6 @@ Software Engineer
 
 I've been a professional software engineer for over 6 years. I enjoy developing my own software in my spare time as well.
 
-* 🌍  I'm based in Northern Virginia
-
 ### Skills
 
 <p align="left">
