@@ -4,7 +4,7 @@ Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been a professional software engineer for over 6 years. I'm passionate about educating and inspiring those interested in software engineering.
+I've been a professional software engineer for over 7 years. I'm passionate about educating and inspiring those interested in software engineering.
 
 ### Skills
 
