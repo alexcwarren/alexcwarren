@@ -14,9 +14,9 @@ I'm passionate about educating and inspiring those interested in software develo
 
 ### 🚀 Featured Projects
 
-- [📂 filename-manager](https://github.com/alexcwarren/filename-manager) – Batch rename files using user-defined rules from the command line.
-- [📦 replace-template](https://github.com/alexcwarren/replace-template) – CLI tool to auto-update project template keywords.
-- [🖼️ image-manager](https://github.com/alexcwarren/image-manager) – Resize, reformat, and apply simple transformations to images.
+- 📂 [filename-manager](https://github.com/alexcwarren/filename-manager) – Batch rename files using user-defined rules from the command line.
+- 📦 [replace-template](https://github.com/alexcwarren/replace-template) – CLI tool to auto-update project template keywords.
+- 🖼️ [image-manager](https://github.com/alexcwarren/image-manager) – Resize, reformat, and apply simple transformations to images.
 
 ### 🌐 Find Me Online
 
