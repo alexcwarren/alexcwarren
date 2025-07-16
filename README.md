@@ -1,10 +1,29 @@
-Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Warren
-===================================================================================================================================
+# 👋Hi, I'm Alex Warren [](https://tenor.com/view/hand-waving-hand-emoji-gif-14999877618442267107)
 
-Software Engineer
------------------
+I'm a software engineer with nearly 10 years of experience building backend systems, internal tools, and developer workflows. I enjoy creating open-source tools that improve productivity, automation, and developer experience.
 
-I've been a professional software engineer for over 7 years. I'm passionate about educating and inspiring those interested in software engineering.
+I'm passionate about educating and inspiring those interested in software development.
+
+---
+
+### 🛠️ Current Focus
+
+- Building passive income from open-source tools.
+- Improving developer workflows through automation.
+- Exploring AI-assisted developer experience tooling.
+
+### 🚀 Featured Projects
+
+- [📂 filename-manager](https://github.com/alexcwarren/filename-manager) – Batch rename files using user-defined rules from the command line.
+- [📦 replace-template](https://github.com/alexcwarren/replace-template) – CLI tool to auto-update project template keywords.
+- [🖼️ image-manager](https://github.com/alexcwarren/image-manager) – Resize, reformat, and apply simple transformations to images.
+
+### 🌐 Find Me Online
+
+- 🔗 [My Website](https://www.alexcwarren.com/)
+
+### 💌 Want to get updates?
+Sign up for updates about new tools and releases [here](#).
 
 ### Skills
 
@@ -37,7 +56,6 @@ I've been a professional software engineer for over 7 years. I'm passionate abou
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
   </a> -->
 </p>
-
 
 ### Socials
 
@@ -98,3 +116,7 @@ I've been a professional software engineer for over 7 years. I'm passionate abou
     <img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d503cc13747866d338b_Button-2-p-500.png" width="200" />
   </a>
 </div>
+
+---
+
+*Always building. Always improving.*
