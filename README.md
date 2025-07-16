@@ -105,12 +105,14 @@ Sign up for updates about new tools and releases [here](#).
 
 ### Support Me
 
+<!--
 <div>
   <a href="https://www.buymeacoffee.com/alexcwarren" target="_blank" rel="noreferrer">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
   </a>
 </div>
 <br />
+-->
 <div>
   <a href="https://ko-fi.com/alexcwarren" target="_blank" rel="noreferrer">
     <img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d503cc13747866d338b_Button-2-p-500.png" width="200" />
