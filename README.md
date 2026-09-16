@@ -20,7 +20,7 @@ I'm passionate about educating and inspiring those interested in software develo
 
 ### 🌐 Find Me Online
 
-- 🔗 [My Website](https://www.alexcwarren.com/)
+- 🔗 My Website: [AlexCWarren.com](https://www.alexcwarren.com/)
 
 ### 💌 Want to get updates?
 Sign up for updates about new tools and releases [here](#).
