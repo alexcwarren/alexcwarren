@@ -10,16 +10,16 @@ My work here includes Python developer tools, command-line utilities, automation
 
 ### 🐍 Developer Tools & Utilities
 
-- **[pyproject-init](https://github.com/alexcwarren/pyproject-init)**
-  A CLI for creating modern Python projects with Hatch, pytest, Ruff, MyPy, Cookiecutter, and GitHub Actions.
+- **[pyproject-init](https://github.com/alexcwarren/pyproject-init)**  
+   A CLI for creating modern Python projects with Hatch, pytest, Ruff, MyPy, Cookiecutter, and GitHub Actions.
 
-- **[filename-manager](https://github.com/alexcwarren/filename-manager)**
+- **[filename-manager](https://github.com/alexcwarren/filename-manager)**  
   Batch rename files from the command line using user-defined rules.
 
-- **[image-manager](https://github.com/alexcwarren/image-manager)**
+- **[image-manager](https://github.com/alexcwarren/image-manager)**  
   A Python utility for common image conversion and transformation tasks.
 
-- **[tictactoe](https://github.com/alexcwarren/tictactoe)**
+- **[tictactoe](https://github.com/alexcwarren/tictactoe)**  
   A small Python Tic-Tac-Toe game with a graphical interface, built as a complete, polished desktop project showcasing Model-View-Controller architecture.
 
 - **[roll](https://github.com/alexcwarren/roll)**  
