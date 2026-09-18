@@ -43,5 +43,5 @@ My work here includes Python developer tools, command-line utilities, automation
 
 - [AlexCWarren.com](https://www.alexcwarren.com/)
 - [LinkedIn](https://www.linkedin.com/in/alexandercwarren/)
-- [Medium](http://www.medium.com/@alexcwarren)
 - [YouTube](https://www.youtube.com/c/alexcwarren)
+- [Medium](http://www.medium.com/@alexcwarren)
