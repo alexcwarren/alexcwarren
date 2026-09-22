@@ -19,9 +19,6 @@ My work here includes Python developer tools, command-line utilities, automation
 - **[image-manager](https://github.com/alexcwarren/image-manager)**  
   A Python utility for common image conversion and transformation tasks.
 
-- **[tictactoe](https://github.com/alexcwarren/tictactoe)**  
-  A small Python Tic-Tac-Toe game with a graphical interface, built as a complete, polished desktop project showcasing Model-View-Controller architecture.
-
 - **[roll](https://github.com/alexcwarren/roll)**  
   A lightweight Python dice-rolling utility.
 
@@ -30,8 +27,8 @@ My work here includes Python developer tools, command-line utilities, automation
 - **[game-mechanic-generator](https://github.com/alexcwarren/game-mechanic-generator)**  
   A Godot tool for generating combinations of gameplay verbs and constraints as prompts for game ideas.
 
-- **[pong-clone](https://github.com/alexcwarren/pong-clone)**  
-  A completed Pong implementation built with Godot 4.
+- **[tiny-solar-system](https://github.com/alexcwarren/tiny-solar-system)**
+  A Godot experiment for playing with planets and moons in a solar system.
 
 ## 🔨 What I'm Working On
 
