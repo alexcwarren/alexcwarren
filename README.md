@@ -27,7 +27,7 @@ My work here includes Python developer tools, command-line utilities, automation
 - **[game-mechanic-generator](https://github.com/alexcwarren/game-mechanic-generator)**  
   A Godot tool for generating combinations of gameplay verbs and constraints as prompts for game ideas.
 
-- **[tiny-solar-system](https://github.com/alexcwarren/tiny-solar-system)**
+- **[tiny-solar-system](https://github.com/alexcwarren/tiny-solar-system)**  
   A Godot experiment for playing with planets and moons in a solar system.
 
 ## 🔨 What I'm Working On
