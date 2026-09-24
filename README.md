@@ -1,44 +1,40 @@
 # 👋 Hi, I'm Alex Warren
 
-I'm a software engineer with nearly 10 years of experience building backend systems, internal tools, and developer workflows.
+I'm a senior software engineer with over a decade of experience building backend systems, internal tools, automation, and developer workflows.
 
-I like building practical software, learning by making things, and (more recently) getting projects across the finish line instead of leaving them permanently "almost done."
+I like building practical software, learning by making things, and turning useful ideas into finished projects.
 
-My work here includes Python developer tools, command-line utilities, automation, and small games built with Godot.
+My independent work here includes Python developer tools, command-line utilities, automation, and small games and experiments built with Godot.
 
 ## 🚀 Featured Projects
 
 ### 🐍 Developer Tools & Utilities
 
 - **[pyproject-init](https://github.com/alexcwarren/pyproject-init)**  
-   A CLI for creating modern Python projects with Hatch, pytest, Ruff, MyPy, Cookiecutter, and GitHub Actions.
+  A CLI for creating ready-to-develop Python projects with a modern, consistent setup using tools such as uv, pytest, Ruff, MyPy, Click, and Cookiecutter.
 
 - **[filename-manager](https://github.com/alexcwarren/filename-manager)**  
-  Batch rename files from the command line using user-defined rules.
+  A Python command-line utility for batch-renaming files using configurable rules.
 
 - **[image-manager](https://github.com/alexcwarren/image-manager)**  
   A Python utility for common image conversion and transformation tasks.
 
-- **[roll](https://github.com/alexcwarren/roll)**  
-  A lightweight Python dice-rolling utility.
-
 ### 🎮 Game Development
 
 - **[game-mechanic-generator](https://github.com/alexcwarren/game-mechanic-generator)**  
-  A Godot tool for generating combinations of gameplay verbs and constraints as prompts for game ideas.
+  A Godot desktop tool for exploring gameplay ideas by combining verbs, constraints, pressures, goals, and meaningful decisions.
 
 - **[tiny-solar-system](https://github.com/alexcwarren/tiny-solar-system)**  
-  A Godot experiment for playing with planets and moons in a solar system.
+  A Godot experiment for exploring planets, moons, scale, lighting, and orbital motion.
 
 ## 🔨 What I'm Working On
 
 - Shipping small, complete software projects
 - Improving Python tooling and developer workflows
-- Learning game development through increasingly ambitious Godot projects
+- Exploring game design and development with Godot
+- Writing about projects and lessons learned along the way
 
 ## 🌐 Elsewhere
 
-- [AlexCWarren.com](https://www.alexcwarren.com/)
-- [LinkedIn](https://www.linkedin.com/in/alexandercwarren/)
-- [YouTube](https://www.youtube.com/c/alexcwarren)
-- [Medium](http://www.medium.com/@alexcwarren)
+- **Website:** [AlexCWarren.com](https://www.alexcwarren.com/)
+- **LinkedIn:** [linkedin.com/in/alexandercwarren](https://www.linkedin.com/in/alexandercwarren/)
